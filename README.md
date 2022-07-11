@@ -12,6 +12,18 @@
 ---
 
 <!--section:aboutme-->
+## 👨‍🎓 About me
+
+<a href="">
+    <img alt="icon" src="https://img.shields.io/youtube/channel/subscribers/UC-v2AmNljjLPDGcQ0FStKTg?logo=youtube&logoColor=red&style=for-the-badge"/>
+</a> 
+<a href="">
+    <img alt="icon" src="https://img.shields.io/twitter/follow/daskblade?color=03b1fc&label=Followers&logo=twitter&logoColor=03b1fc&style=for-the-badge"/>
+</a> 
+<a href="">
+    <img alt="icon" src="https://img.shields.io/youtube/channel/subscribers/UC-v2AmNljjLPDGcQ0FStKTg?label=Youtube&style=for-the-badge"/>
+</a> 
+
 <a href="">
   <img align="right" src="images/daskblade-head2.jpg" width=200 />
 </a>
@@ -24,7 +36,7 @@
 - 🎮 Favourite game: Minecraft
 
 <!--section:contact-->
-<h3 align="left">📫 Contact me via:</h3>
+## 📫 Contact me via
 <p align="left">
   <a href="mailto:daskblade71@email.com" target="blank"><img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657485369205.svg?token=exp=1657486275~hmac=0efb800df88290c48a9d05a8f960cc21" alt="icon" height="30" width="40" /></a>
   <a href="https://discord.gg/user/Daskblade#6316" target="blank"><img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657485589964.svg?token=exp=1657486494~hmac=359f197844bf76d0633e888e4817b47f" alt="icon" height="30" width="40" /></a>
@@ -32,19 +44,156 @@
 
 <!--section:skills-->
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Worked with</b></summary>
+  <summary><h2>🛠️&nbsp;Worked with</h2></summary>
   <p align="left"> 
-  <h3>Software</h3>
+    
+<h3>Software</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Illustrator
+    </td>
+     <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Premiere Pro
+    </td>
+     <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>After Effects
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>InDesign
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968514.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Lightroom
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Adobe XD
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>  
+</table>
   
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968514.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" alt="icon" width="40" height="40"/> </a> &nbsp;
-  <a href=""> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="icon" width="40" height="40"/> </a> &nbsp;
+<h3>Database</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>  
+</table>
+  
+<h3>Devops</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>Google Cloud Platform
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919837.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>Bash
+    </td>
+  </tr>  
+</table>
+  
+<h3>Backend Development</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="icon" />
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>  
+</table>
+  
+<h3>Frontend Development</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>  
+</table>
+  
+<h3>Programming Languages</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="icon" />
+      </a>
+      <br>Javascript
+    </td>
+  </tr>  
+</table>
+  
 </details>
+
+## 🗂️ My Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+
 
 <!--footer-->
 ```
