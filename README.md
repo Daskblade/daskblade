@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UC-v2AmNljjLPDGcQ0FStKTg" target="_blank" rel="noreferrer"> <img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657483705797.svg?token=exp=1657484612~hmac=f05658e989939df3158d230248f7d954" alt="icon" width="30" height="30" color:"white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/daskblade.design" target="_blank" rel="noreferrer"> <img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657483270900.svg?token=exp=1657484182~hmac=0405111372e2353a52060957700f4e9e" alt="icon" width="30" height="30" color:"white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/daskblade" target="_blank" rel="noreferrer"> <img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657483351645.svg?token=exp=1657484256~hmac=2b0bcb33fededeb7c033606e9729a128" alt="icon" width="30" height="30" color:"white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/daskblade" target="_blank" rel="noreferrer"> <img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657483563782.svg?token=exp=1657484468~hmac=296047d681e73258f70422c68ce4e4ad" alt="icon" width="30" height="30" color:"white"/></a>
+  <a href="https://www.tiktok.com/@daskblade" target="_blank" rel="noreferrer"> <img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657483563782.svg?token=exp=1657484468~hmac=296047d681e73258f70422c68ce4e4ad" alt="icon" width="30" height="30" color:"white"/></a>
 </p>
 
 ---
