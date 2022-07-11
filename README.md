@@ -21,7 +21,7 @@
     <img alt="icon" src="https://img.shields.io/twitter/follow/daskblade?color=03b1fc&label=Followers&logo=twitter&logoColor=03b1fc&style=for-the-badge"/>
 </a> 
 <a href="">
-    <img alt="icon" src="https://img.shields.io/youtube/channel/subscribers/UC-v2AmNljjLPDGcQ0FStKTg?label=Youtube&style=for-the-badge"/>
+    <img alt="icon" src="https://img.shields.io/github/watchers/daskblade/daskblade?color=a3a3a3&label=Visitors&logo=github&style=for-the-badge"/>
 </a> 
 
 <a href="">
