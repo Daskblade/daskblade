@@ -189,6 +189,7 @@
 
 ## 🗂️ Minecraft Projects
 
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=daskblade&repo=Dasks-Mod-List&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/Daskblade/Dask-s-Resource-Pack.git) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![project](https://github-readme-stats.vercel.app/api/pin/?username=daskblade&repo=Dasks-Resource-Pack&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/Daskblade/Dask-s-Resource-Pack.git)
 
 
