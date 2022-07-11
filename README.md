@@ -1,5 +1,5 @@
 <!--header:banner-->
-![image](images/banner.png)
+![image](images/banner2.png)
 
 <!--header:visit_icons-->
 <p align="center">
