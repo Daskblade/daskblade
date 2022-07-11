@@ -189,11 +189,9 @@
 
 ## 🗂️ My Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=daskblade&repo=Dasks-Resource-Pack&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/Daskblade/Dask-s-Resource-Pack.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/CyrisXD/Pwnagetty)
+
 
 ---
 
