@@ -38,8 +38,8 @@
 <!--section:contact-->
 ## 📫 Contact me via
 <p align="left">
-  <a href="mailto:daskblade71@email.com" target="blank"><img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657485369205.svg?token=exp=1657486275~hmac=0efb800df88290c48a9d05a8f960cc21" alt="icon" height="30" width="40" /></a>
-  <a href="https://discord.gg/user/Daskblade#6316" target="blank"><img src="https://cdn-user-icons.flaticon.com/63846/63846493/1657485589964.svg?token=exp=1657486494~hmac=359f197844bf76d0633e888e4817b47f" alt="icon" height="30" width="40" /></a>
+  <a href="mailto:daskblade71@email.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/542/542689.png" alt="icon" height="30" width="40" /></a>
+  <a href="https://discord.gg/user/Daskblade#6316" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="icon" height="30" width="40" /></a>
 </p>
 
 <!--section:skills-->
