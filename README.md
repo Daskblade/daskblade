@@ -23,6 +23,8 @@
 | 🔌 Plugins           | 0              | Server management, custom mechanics         |
 | 🧪 Mods              | 0              | Currently learning Java for future mods     |
 
+- Latest Minecraft mods - [Google Sheets](https://docs.google.com/spreadsheets/d/1Ic7g5sUUShGicOZVHcN0YMOVgVNNWfaOfaFcjWTYqb4/edit?usp=sharing)
+
 ## 🛠️ Tools I Use
 
 <img align="left" width="50px" color="ffffff" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />   
