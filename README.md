@@ -12,198 +12,24 @@
 ---
 
 <!--section:aboutme-->
-## 👨‍🎓 About me
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="">
-    <img alt="icon" src="https://img.shields.io/youtube/channel/subscribers/UC-v2AmNljjLPDGcQ0FStKTg?logo=youtube&logoColor=red&style=for-the-badge"/>
-</a> 
-<a href="">
-    <img alt="icon" src="https://img.shields.io/twitter/follow/daskblade?color=03b1fc&label=Followers&logo=twitter&logoColor=03b1fc&style=for-the-badge"/>
-</a> 
-<a href="">
-    <img alt="icon" src="https://img.shields.io/github/watchers/daskblade/daskblade?color=a3a3a3&label=Visitors&logo=github&style=for-the-badge"/>
-</a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daskblade&label=Profile%20views&color=0e75b6&style=flat" alt="daskblade" /> </p>
 
-<a href="">
-  <img align="right" src="images/daskblade-head2.jpg" width=200 />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daskblade" alt="daskblade" /></a> </p>
 
-- Hey there,my name is Dask.I'm a old minecraft player since 2012.This profile was made to upload mostly minecraft stuff but there can be also other things.
-- 🏳️ Country: Bosnia
-- 🎉 Age: 23
-- 🤠 Pronouns: he/him
-- 💻 Job: Graphic Designer & Marketing
-- 🎮 Favourite game: Minecraft
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!--section:contact-->
-## 📫 Contact me via
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:daskblade71@email.com" target="blank"><img src="https://cdn-user-icons.flaticon.com/63846/63846493/1671133653591.svg?token=exp=1671134566~hmac=81922649a84086d937dc3ce85d554424" alt="icon" height="30" width="40" /></a>
-  <a href="https://discord.gg/user/Daskblade#6316" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="icon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a>
 </p>
 
-<!--section:skills-->
-<details>
-  <summary><h2>🛠️&nbsp;Worked with</h2></summary>
-  <p align="left"> 
-    
-<h3>Software</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Illustrator
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Premiere Pro
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>After Effects
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>InDesign
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968514.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Lightroom
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Adobe XD
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>  
-</table>
-  
-<h3>Database</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>  
-</table>
-  
-<h3>Devops</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>Google Cloud Platform
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919837.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>  
-</table>
-  
-<h3>Backend Development</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="icon" />
-      </a>
-      <br>NodeJS
-    </td>
-  </tr>  
-</table>
-  
-<h3>Frontend Development</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>CSS3
-    </td>
-  </tr>  
-</table>
-  
-<h3>Programming Languages</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="icon" />
-      </a>
-      <br>Javascript
-    </td>
-  </tr>  
-</table>
-  
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 🗂️ Minecraft Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daskblade&show_icons=true&locale=en&layout=compact" alt="daskblade" /></p>
 
-[![project](https://github-readme-stats.vercel.app/api/pin/?username=daskblade&repo=Dasks-Mod-List&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/Daskblade/Dask-s-Resource-Pack.git) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![project](https://github-readme-stats.vercel.app/api/pin/?username=daskblade&repo=Dasks-Resource-Pack&bg_color=0d1116&title_color=3eb0ff&text_color=a4aacb&icon_color=ffffff)](https://github.com/Daskblade/Dask-s-Resource-Pack.git)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daskblade&show_icons=true&locale=en" alt="daskblade" /></p>
 
-
-
----
-
-<!--footer-->
-```
-                                                                    _ _                
-                                                                   | | |               
-                                               __ _  ___   ___   __| | |__  _   _  ___ 
-                                              / _` |/ _ \ / _ \ / _` | '_ \| | | |/ _ \
-                                             | (_| | (_) | (_) | (_| | |_) | |_| |  __/
-                                              \__, |\___/ \___/ \__,_|_.__/ \__, |\___|
-                                               __/ |                         __/ |     
-                                              |___/                         |___/      
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daskblade&" alt="daskblade" /></p>
