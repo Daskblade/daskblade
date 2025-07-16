@@ -1,5 +1,5 @@
 <!--header:banner-->
-![image](images/banner2.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daskblade&show_icons=true&locale=en" alt="daskblade" /></p>
 
 <!--header:visit_icons-->
 <p align="center">
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daskblade&show_icons=true&locale=en&layout=compact" alt="daskblade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daskblade&show_icons=true&locale=en" alt="daskblade" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daskblade&" alt="daskblade" /></p>
