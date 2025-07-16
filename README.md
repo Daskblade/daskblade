@@ -1,5 +1,20 @@
-<!--header:banner-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daskblade&show_icons=true&locale=en" alt="daskblade" /></p>
+<!--header:text-->
+
+# 👋 Hey, I’m Daskblade!
+<div>
+  <p>Hey! I'm Daskblade, a 26-year-old gamer from Bosnia & Herzegovina, and a proud member of the Minecraft community since 2012. What started as late-night survival sessions quickly grew into a full-blown passion — from building massive redstone contraptions to creating custom modpacks, resource packs, and even hosting my own Minecraft server.Beyond the blocks, I share my projects and builds through my TikTok and YouTube channels, where I post gameplay, tutorials, and redstone showcases. I love connecting with other players, sharing ideas, and helping the community grow.</p>
+  <p>Currently, I’m planning new projects, expanding my packs, and maybe even diving deeper into Minecraft modding. Whether you're here to collab, follow my work, or just say hi — welcome!</p>
+</div>
+
+## 🛠️ Tools & Tech I Use
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+<h1 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daskblade&show_icons=true&locale=en&theme=dark&icon_color=053685&title_color=357cf0&border_color=333333" alt="daskblade" /></h1>
 
 <!--header:visit_icons-->
 <p align="center">
